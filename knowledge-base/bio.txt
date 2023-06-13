@@ -1,1 +1,185 @@
-you can contact me at veryprivatemail@gmail.com
+This document is about Nikhil Utane’s professional experience.
+
+Question: Tell me about Nikhil?
+Nikhil brings 20+ years of diverse product development experience in building distributed, high-performance, carrier-grade products. He possesses a solid foundation in core system areas while being proficient in new-age technologies such as Big Data Analytics, Data Engineering, Cloud & Cloud-Native architecture, DevOps, Machine Learning, etc. He has a track record of successfully building and leading top-performing teams from the ground up, leveraging his extensive technical expertise. He has a thorough understanding of software development processes and best practices, including Agile methodologies. 
+
+He is currently leading multiple teams at CommScope spearheading the development of innovative products and solutions in Analytics, DevOps, Cloud, and Automation areas for OneCell 5G product. 
+Question: What is Nikhil looking for in the new role?
+Nikhil is interested in leadership roles that require a combination of technical and management skills to solve innovative and challenging problems at scale.
+Question: What are Nikhil’s unique skills or superpowers or strengths? 
+Nikhil’s answer: Critical thinking, empathy, openness to change, perseverance, quick-learning, sense of humor.
+Question: Tell me Nikhil’s top 3 weaknesses
+Nikhil's answer: Impatience, FOBO, self-promotion
+Question: Talk about your last project or recent achievements in Commscope?
+Nikhil’s answer:  My team develops various products and solutions in Analytics, DevOps, Cloud, and Automation areas for OneCell 5G small-cell product.
+In Analytics, we developed a KPI analytics solution using InfluxDB, an Elasticsearch powered log analytics solution, Prometheus/Thanos based observability solution, tool for real-time tracking of lab inventory. In addition, my team has also developed customer service portals that has greatly reduced the workload on our Managed Services team.
+In DevOps, we developed sophisticated CI/CD pipelines, made tons of build system improvements to reduce build time by over 80%, developed web portals to automate various software installation & delivery workflows, as well as brought in various other tools to improve developer efficiency and productivity.
+In Cloud, I drove public cloud adoption to improve overall agility and reduce cost. We ported our 5G gNB SW to run on Azure VM to democratize access to setups. We ran our build system on Azure cloud for business continuity and to have access to unlimited capacity. My team handles all internal cloud deployments and few in production. In addition, cloud cost monitoring and optimization is an ongoing activity carried out by my team. 
+In Automation, we developed Robot based test automation framework, along with a googletest-based unit-test framework. Using Ansible, we automated various workflows for setup bring-up, configuration management, software delivery that saved countless hours of manual effort.
+Question: How have you managed a poor performer on your team? 
+Nikhil's answer: Nikhil's management approach centers on understanding the root cause of underperformance, which he attributes to either skill/aptitude or attitude issues. He emphasizes the importance of rigorous attitude screening during hiring to ensure team fit. If an attitude problem arises, he suggests probing changes in behavior and having open, supportive dialogues to identify issues, which might include lack of interest or personal challenges. 
+In cases of skill deficiencies, he advocates for a patient and tailored approach, finding roles that best suit each individual's strengths and offering consistent coaching and feedback. He believes that employees who might initially struggle but have aptitude can become long-term assets. However, if an employee continues to underperform despite support and was wrongly selected, he stresses the need for following due process and providing regular critical feedback so the action taken isn't surprising to the employee.
+Question: Have you worked on any org-wide initiatives? What was the impact? 
+Nikhil's answer: Nikhil was part of a select core team responsible for implementing an Agile transformation. Despite spending over two years carefully planning the transition and hiring an external Agile coach, they underestimated the human element of the process. Resistance to change from certain individuals and teams hindered the initiative. Following the departure of a key sponsor, most of the procedures reverted back to their original state, with only a few changes persisting.
+Question: How do you approach building a team roadmap?
+Nikhil's answer: In my team, the approach to roadmap development differs from the majority of other teams in the company. While most teams follow the roadmap set by Product Management, my team's roadmap is a combination of inputs from multiple sources. Roughly one-third of the roadmap comes directly from Product Management, another third is derived from feedback gathered by engaging with stakeholders and the team, and the final third is driven by my own ideas and vision.
+Within the domains of DevOps, Analytics, Cloud, and Automation, I conducted a comprehensive assessment to identify the necessary work items to support our SmallCell 5G program in both the short and long term. This encompassed the development of new products and solutions, as well as enhancements to existing systems and processes. To prioritize these initiatives, I considered factors such as impact, urgency, visibility, feasibility, and resource availability. I utilized project management tools like Jira, Kanban, and Trello for effective planning and execution.
+By adopting this approach, we have been able to align our roadmap with the specific needs and goals of our product. 
+Question: Tell me about a project that wasn’t successful
+Nikhil's answer: As an individual always experimenting with new tools and technologies, I have had quite a few disappointments. My biggest unsuccessful project was the Log Analytics for OneCell 4G product. The solution was much required, but the error lay in creating it for the developers instead of prioritizing the field and sustaining teams. These teams faced a greater challenge with log analysis and were more willing to provide input and invest time. There were also some technical limitations that created friction in the usage of the tool. Nevertheless, the effort wasn't wasted as all the work was later repurposed in developing a similar solution for the 5G product, which didn't encounter the technical hurdles of 4G logging.
+Question: Tell me about a conflict at work?
+Nikhil's answer: I'll provide an illustration of an instance involving considerable stakes. Upon assuming the management of a new team, we were tasked with developing a high-availability solution for our 4G small cell product. Prior to my arrival, our System Engineering team had crafted a comprehensive 200-page document detailing the solution's working, under the assumption that all components would be developed in-house from scratch.
+Given the industry-wide prevalence of this use case, I was convinced that open-source alternatives could perform the majority of the work. Following thorough research, I identified a couple of tools, namely Pacemaker and Corosync, that primarily fit our requirements. 
+Adopting this new approach necessitated discarding a significant portion of the already written requirements, drafting new ones, and potentially making compromises on certain feature aspects. Despite these factors, the benefits of utilizing proven solutions far outweighed the negatives. The main obstacle was securing the System Engineering team's approval, especially the individual who had devoted months to the requirements document.
+Despite the superiority of the proposed solution, I anticipated resistance. I remained receptive to concerns, particularly regarding the risks associated with open-source software. I networked within the larger community and consulted peers from other companies to understand the tools' prevalence, collecting extensive data to alleviate initial apprehension. Discovering that a competitor was also utilizing these tools for a similar feature was a significant revelation.
+The next step was to demonstrate that these tools could meet the major use case expectations. I meticulously designed the complete solution, considering the functionality of our software and its limitations, to meet most of the primary requirements. A proof of concept was swiftly developed to showcase its integration with our applications.
+A strategic focus was placed on convincing a respected senior architect of this solution's merits, resulting in his support. A proof of concept demonstrating the basic operation of the overall solution assisted in securing his endorsement, making it simpler to persuade others.
+Despite initial apprehensions and some hiccups, we developed the entire solution in approximately half the anticipated time and cost with significantly superior quality.
+Question: Have you promoted someone? How do you go about it?
+Nikhil's answer: Indeed, throughout my professional journey, I've facilitated numerous promotions. My approach to promotions is rooted in a transparent and equitable process that emphasizes merit and performance outcomes.
+During one-on-one meetings, I establish a foundation for potential promotions, outlining the necessary requirements for each individual's advancement. These sessions encompass discussions on their current strengths, areas for improvement, as well as the responsibilities and expectations associated with the potential new role.
+For entry-level promotions, the process is relatively straightforward. The key aspect here is to ensure transparency and fairness to maintain team harmony and prevent dissatisfaction.
+However, senior-level promotions necessitate a more extensive effort. Typically, I initiate the process a year before I personally believe the candidate is prepared for the promotion. I engage my supervisor in these discussions to acclimate them to the idea and solicit their feedback, providing useful insights for both myself and the candidate. The main areas of focus usually include:
+1. Assumption of larger responsibilities,
+2. Amplification of work impact,
+3. Enhancement of visibility beyond the immediate team, extending to senior leadership,
+4. Positive feedback from peers and other managers.
+Subsequently, I collaborate with the individual to clarify the promotion criteria and process. We strategize a plan to meet these expectations over the forthcoming year. This includes identifying additional responsibilities for the candidate and pinpointing two to three impactful work items. I also provide guidance on how to bolster their visibility beyond the team.
+During our regular one-on-one meetings, we review the progress made and adjust the strategy as required.
+As the period for identifying promotion candidates arrives, I collect feedback from a range of colleagues who have engaged with the individual, compiling a comprehensive case that highlights all major achievements. Depending on various factors, the promotion process might proceed smoothly or may necessitate more vigorous advocacy.
+
+Question: As a manager, how do you handle trade-off?
+Nikhil's answer: As they say, developing software is nothing but making a series of trade-offs. In my managerial role, navigating trade-offs is a critical aspect. Rather than seeking an ideal solution, I focus on finding the best possible balance given the circumstances. My approach is founded on objectivity and data-driven analysis. Leveraging my professional experience while consciously mitigating biases is key. Maintaining an open mindset and being receptive to all comments and questions is crucial in this process. In addition, I thoughtfully consider both immediate and long-term implications to ensure the most advantageous outcomes. 
+Question: How do you coach and develop your engineering team?
+Nikhil's answer: As a leader, my approach to coaching and developing my engineering team is two-pronged, addressing both immediate project requirements and long-term professional growth. 
+I work with our management and Learning & Development team to provide my team members access to comprehensive learning platforms like Udemy and O’Reilly. These platforms offer a broad range of courses to hone both technical and soft skills.
+I maintain an individual career plan for every team member. This page consists of three sections: current skills and proficiency level, areas of interest, and a prioritized training plan. This documentation is transparently accessible to everyone. 
+To further facilitate training, I create a page featuring the most relevant courses for my team. I've also introduced an element of gamification, maintaining a leaderboard to incentivize team members to complete more courses. This progress is reviewed during our 1:1 and skip-level meetings.
+Additionally, I firmly believe in the power of leading by example. Encouraging team members to engage in learning becomes more effective when they witness their leader actively participating in the same. Hence, I partake in the leaderboard competition, which, I have found, greatly motivates the team.
+
+
+Question: Tell me about a time you made a mistake?
+Nikhil's answer: Hiring KB
+Question: What product that you led are you most proud of and why?
+Nikhil's answer:Chronos - real-time OM/KPI analytics solution
+Question: Tell me about a time you convinced someone to change their mind?
+Nikhil's answer: Redundancy feature - Art, MK with SD.
+Question: How do you structure 1:1s?
+Nikhil's answer: Discuss priorities, roadblocks, accomplishments, frustrations, feedback, and what is “top of mind” for your direct report; it is NOT a status update.
+Refer: https://roamresearch.com/#/app/MyMusings/page/EA6fiiIA8
+Question: Essential Meetings to Have With Your People as a Manager
+Nikhil's answer:1:1, Skip-level, Career conversations, Goal reviews, Performance Reviews, Team meeting
+Question: Tell me about a tough decision you made during a project. How did you handle it?
+Nikhil's answer: Recent layoffs of full-time.
+TBD
+Question: How do you manage difficult conversations?
+Nikhil's answer: When it comes to managing difficult conversations, I approach them with the perspective of providing helpful guidance rather than perceiving them as challenging interactions. Many managers limit feedback to performance appraisal cycles, but I believe that moment isn’t the right one, as it is tied to individuals' benefits and can lead to defensiveness. Instead, I provide feedback as soon as I have something to give, detached from other factors, which allows for a more receptive environment.
+Among the more challenging conversations I've encountered are performance-related terminations. Even in such instances, the objective is to present it as an opportunity for long-term growth.
+Discussing layoffs due to cost considerations is particularly difficult. In these cases, it is crucial to approach the conversation with empathy and a human touch.
+Question: How do you set goals for your engineering team?
+Nikhil's answer: When it comes to setting goals for my engineering team, the process differs from other teams that primarily align their goals with product requirements provided by the Product Lifecycle Management (PLM) team. In my case, as my team engages in significant new product development and R&D endeavors to support other teams, the PLM requirements only constitute a fraction of the overall goal-setting process.
+The goal-setting process encompasses multiple sources of input. Firstly, it draws from my own experience and vision, identifying essential elements that are necessary for developing our specific product. These elements may reflect standard practices prevalent in the broader industry but not yet adopted by our team. Secondly, input is derived from senior leadership, including my manager, their manager, and their peers, who provide insights and expectations. Thirdly, feedback is gathered from peers and other key leads, highlighting concerns or issues that require attention. Lastly, input from my own team members is considered, focusing on areas that cause difficulties or create additional workload.
+Given resource constraints, it becomes necessary to prioritize goals based on various factors such as impact, effort, urgency, available skills, and resources. This allows for a more strategic allocation of efforts and ensures that the most critical objectives are pursued effectively.
+
+Question: How do you build credibility with new reports on a team you haven’t built yourself?
+Nikhil's answer: I have done this successfully once when I came back to Airvana to lead the NSC program back in 2013. At that time there was an existing team that I got with senior members. In fact, two of them had more years of experience than me. Quite naturally, I sensed a bit of disapproval about my appointment. And they had every right. They had stayed with the company whereas I had joined another company for 2 years, came back, and now was leading them even though they were senior to me.
+And when I look back, it wasn’t that I embarked on some kind of mission to win the team’s trust etc etc. I just did a lot of natural or commonsensical things that I would normally do.
+For e.g. it is necessary to get off to a good start and so an informal 1:1 meeting with every team member is the first thing I would do. I would use this as an opportunity to learn more about them. Their strengths and weaknesses, their aspirations, their concerns etc. I’d also explain my style of working, my expectations, etc.
+I was humble enough to admit that as they had been working on this project more than me, they know more and I’d like to learn from them.
+The decisions were made by consensus rather than top-down. I gave them autonomy and did not indulge in any form of micro-management. I treated everyone fairly and with respect, and stood up for them when required. 
+But the most important factor in building credibility is that they should respect you for your technical abilities. When the team sees that the manager can talk with them in the same language, and is also able to help them in technical matters, that sets a strong foundation. It’s also important to be with the team. If I am required to ask someone to work late or work on a weekend, then I would be there with them. 
+One last thing to mention is about creating an atmosphere where everyone feels safe to say what’s on their mind. Basically, an environment of psychological safety.
+Question: Talk about your best and worst performing teams?
+Nikhil's answer:TBD
+Question: Describe a tough situation in which you had to step into a leadership role
+Nikhil's answer: Vendor not honoring commitments during NSC project. Recent layoff and subsequent re-org.
+Question: How do you manage the performance of your team?
+Nikhil's answer:FORCED framework
+Question: Tell me about a time you had to mediate a conflict
+Nikhil's answer:When KB started centralizing all communication and when too many meetings.
+Question: How do you recruit and hire good engineers?
+Nikhil's answer: Attitude, aptitude, curiosity, exploring around, basics
+Question: Tell me about a time when you fired someone
+Nikhil's answer:NG
+Question: How would you motivate your team to perform better?
+Nikhil's answer:Ownership, Autonomy, Recognition, Feedback
+Question: Describe the most technically complex project you worked on and why it was complex?
+Nikhil's answer:OneCell 5G, Redundancy
+Question: Tell me about a time you failed as a people manager
+Nikhil's answer: My inability to prevent layoff in my team could be considered a failure.
+Question: How do you handle promoting someone as a manager?
+Nikhil's answer:Understand the motivation, see if they want to be a manager or just lead someone. Assign them some reportees for 6 months, see if they like it.
+Question: Looking back on your most recent project, what would you have done differently?
+Nikhil's answer: Few initiatives that didn’t get adoption
+What is your leadership style, and how do you motivate and inspire your team?
+Nikhil's answer: Largely democratic. Lead by consensus on most occasions. Some occasions require you to take decisions. Trust and treat everyone with respect. Always have open mind. Lead by example.
+How do you handle challenging technical projects or tight deadlines?
+Nikhil's answer: Tackle the complex pieces first, do iterative development starting with MVP. Clearly state risks and regular status update, don’t hide or be over-optimistic. Under-promise and over-deliver. If you create the ownership within team then team will rally behind you.
+Can you describe a time when you faced a significant technical problem or setback and how you resolved it?
+Nikhil's answer: SIGILL, Kernel panic during QoS, crash on ppc in Redundancy, flashing custom firmware on TP-link router during customer trial, AutoIT in Nevis
+What strategies do you use to foster innovation and promote a culture of continuous improvement?
+Nikhil's answer: Lead by example and from front. Push thinking boundaries of team members. Monthly tech meeting.
+How do you stay updated with the latest technological advancements and industry trends?
+Nikhil’s answer: Twitter, medium, substack, newsletters, youtube
+Can you share your approach to talent acquisition, team building, and career development?
+Nikhil’s answer: 
+How do you measure the success of your engineering team and the projects they work on?
+Nikhil’s answer: Impact, some can be quantified, in terms of cost and effort saved, DAU, . In some cases it is difficult.
+How do you ensure effective communication and collaboration between engineering and other departments, such as product management or design?
+Nikhil’s answer: Build relationship, be open-minded, believe that everyone wants to do good work for the company from their point of view.
+Can you give an example of a time when you successfully implemented a process or strategy to improve efficiency or productivity?
+Nikhil’s answer: CI pipeline, build improvements, test automation, Setup bring-up automation. Setup reservation, DevOps portal, Themis-Lab
+How do you balance short-term goals with long-term vision and strategic planning?
+Nikhil’s answer: Establish clear vision. Define clear priorities, say no to distractions. Have an agile mindset, make incremental progress, regular review and adjust, manage technical debt, 
+Can you share your experience in leading teams through periods of rapid growth or organizational change?
+Nikhil’s answer: Grew SS from 0 to 30 in a year
+How do you ensure that engineering projects align with the company's strategic goals and objectives?
+Nikhil’s answer: Constant communication - regular updates and seeking feedback.
+How do you foster a culture of diversity, inclusion, and belonging within your engineering teams?
+Nikhil’s answer: Psychological safety, fun and respectful working environment
+How do you handle technical debt and balance the need for innovation with the need for maintaining stability and reliability?
+Nikhil’s answer: Kanban, everything gets added into Jira. Keep working on the backlog.
+How do you promote knowledge sharing and collaboration within your engineering teams?
+Nikhil’s answer: Lead by example, access to resources, provide easy reference to material, gamify learning, monthly technical meetups
+Can you describe your approach to performance management and providing feedback to your team members?
+Nikhil’s answer: Be fair and transparent, Give feedback throughout the year during 1:1, skip level, and also get from peers, do career planning for everyone.So performance management process smooth as there is nothing new that gets discussed.
+Can you give an example of a time when you had to make a difficult decision that had a significant impact on your team or organization?
+Nikhil’s answer: Recent layoff
+How do you encourage professional growth and development for your engineers?
+Nikhil’s answer: Career planning, mentor them, lead by example
+Can you describe your experience in managing remote or distributed engineering teams?
+Nikhil’s answer: As part of SS
+How do you ensure that engineering projects are delivered on time and within budget without compromising quality?
+Nikhil’s answer: Follow the basics of SW engineering.
+Can you share an example of a time when you had to handle a major incident or outage? How did you handle the situation and prevent similar incidents in the future?
+Nikhil’s answer: Deletion of prod cluster.
+Can you share an example of a time when you had to lead a major project from inception to completion? What challenges did you face, and how did you overcome them?
+Nikhil’s answer: Many, NSC, Redundancy, Chronos
+How do you approach risk management and mitigation in engineering projects?
+Nikhil’s answer: First is to identify the risks and prioritize them. Mitigation planning. Monitoring, transparent communication.
+Can you describe your experience in implementing Agile or other project management methodologies within engineering teams?
+Nikhil’s answer: I started practicing Agile in limited scope during NSC. Not good experience during Agile transformation project.
+Can you give an example of a time when you had to make a trade-off between technical excellence and business constraints? How did you navigate this situation?
+Nikhil’s answer: It’s something that happens on a regular basis. For e.g. based on cost, effort etc
+Can you share your experience in leading engineering teams through a major technology transition or adoption of new tools/frameworks?
+Nikhil’s answer: CI/CD pipeline for OneCell 5G, Robot framework.
+How do you ensure the scalability and maintainability of engineering solutions in the long term?
+Nikhil’s answer: Build modular code, pick right tools. Don’t over-engineer or premature optimize.
+Can you share your experience in building strong relationships with external partners, such as clients or vendors, to drive successful engineering outcomes?
+Nikhil’s answer: KDDI
+How do you approach technical documentation and knowledge sharing within your engineering organization?
+Nikhil’s answer: Document on Confluence
+What do you identify as your greatest and biggest improvement areas? And what have you done to improve them so far?
+Nikhil’s answer: Addressing FOBO. By nature I am someone who needs to do everything, have the best experience, compulsive planner etc. But now I am teaching myself to be satisfied with what is there. 
+What is the software development process you follow?
+Nikhil’s answer: 
+Question: Tell me a time you couldn’t meet a goal/deadline & how you handled it
+Question: Why do you want to work for us/ this company?
+Question: What is your greatest strength?
+Problem-solving
+Question: Describe a time when you successfully balanced several competing priorities
+Question: Describe a time when you disagreed with your supervisor or peer and how you resolved it
+Question: Why do you want to leave your current position? 
+
+
+

@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'Gloria augmented blog',
+  title: 'NikBot - ChatBot for Nikhil Utane',
   author: 'You',
-  headerTitle: 'Gloria',
-  description: 'An augmented blog leveraging generative AI',
+  headerTitle: 'NikBot',
+  description: 'Personal ChatBot for Nikhil Utane',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',

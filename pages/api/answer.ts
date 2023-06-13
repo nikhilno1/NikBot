@@ -13,7 +13,6 @@ export const config = {
 // eslint-disable-next-line import/no-anonymous-default-export
 export default async (req: NextApiRequest, res: NextApiResponse) => {
   const question = req.body
-
   const prisma = new PrismaClient()
   const questionInDB = await prisma.question.create({
     data: {
