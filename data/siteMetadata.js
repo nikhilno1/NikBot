@@ -9,10 +9,11 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  twitter: 'https://twitter.com/',
-  youtube: 'https://www.youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  //email: 'nikhil.subscribed',
+  github: 'https://github.com/nikhilno1/',
+  twitter: 'https://twitter.com/nikhil_no_1',
+  // youtube: 'https://www.youtube.com',
+  linkedin: 'https://www.linkedin.com/in/nikhilutane/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
