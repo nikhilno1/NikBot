@@ -38,7 +38,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
   const model = new OpenAI({
     modelName: 'gpt-3.5-turbo',
     openAIApiKey: process.env.OPENAI_API_KEY,
-    temperature: 0,
+    temperature: 0.3,
   })
 
   const promptTemplateBot = /*#__PURE__*/ new PromptTemplate({
