@@ -20,7 +20,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     },
   })
 
-  console.log('Added question to DB')
+  //console.log('Added question to DB')
 
   const vectorStore = PrismaVectorStore.withModel<documents>(prisma).create(
     new OpenAIEmbeddings(),
@@ -55,7 +55,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     returnSourceDocuments: true,
     k: 2,
   })
-  console.log('Calling OpenAI API with question: ' + question)
+  //console.log('Calling OpenAI API with question: ' + question)
   /* Ask it a question and the answer */
   const result = await chain.call({
     query: question,
@@ -70,7 +70,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
   //   ),
   // ])
 
-  console.log(result.text)
+  //console.log(result.text)
 
   await prisma.question.update({
     where: {
@@ -82,7 +82,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     },
   })
 
-  console.log('Updated question in DB. Returning 200 OK')
+  //console.log('Updated question in DB. Returning 200 OK')
 
   return res.status(200).json(result)
 }
