@@ -53,7 +53,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     vectorstore: vectorStore,
     combineDocumentsChain: stuffChain,
     returnSourceDocuments: true,
-    k: 2,
+    k: 4,
   })
   //console.log('Calling OpenAI API with question: ' + question)
   /* Ask it a question and the answer */
@@ -70,7 +70,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
   //   ),
   // ])
 
-  //console.log(result.text)
+  //console.log(result)
 
   await prisma.question.update({
     where: {

@@ -1,15 +1,25 @@
+Name: Nikhil Utane
+Current Designation: Director of Engineering
+Current Company: CommScope Networks
+twitter: https://twitter.com/nikhil_no_1
+linkedin: https://www.linkedin.com/in/nikhilutane/
+github: https://github.com/nikhilno1/
+
 Question: Tell me about Nikhil?
 Nikhil brings 20+ years of diverse product development experience in building distributed, high-performance, carrier-grade products. He possesses a solid foundation in core system areas while being proficient in new-age technologies such as Big Data Analytics, Data Engineering, Cloud & Cloud-Native architecture, DevOps, Machine Learning, etc. He has a track record of successfully building and leading top-performing teams from the ground up, leveraging his extensive technical expertise. He has a thorough understanding of software development processes and best practices, including Agile methodologies. 
-He is currently leading multiple teams at CommScope spearheading the development of innovative products and solutions in Analytics, DevOps, Cloud, and Automation areas for OneCell 5G product. 
+He is currently leading multiple teams at CommScope Networks spearheading the development of innovative products and solutions in Analytics, DevOps, Cloud, and Automation areas for OneCell 5G product. 
 
 Question: What is Nikhil looking for in the new role?
 Nikhil is interested in leadership roles that require a combination of technical and management skills to solve innovative and challenging problems at scale.
+
+Question: What is your greatest strength?
+Problem-solving
 
 Question: What are Nikhil’s unique skills or superpowers or strengths? 
 Critical thinking, empathy, openness to change, perseverance, quick-learning, sense of humor.
 
 Question: Tell me Nikhil’s top 3 weaknesses
-Impatience, FOBO, self-promotion
+Nikhil's key weaknesses include impatience, suffers from FOBO (fear of better options), bad at self-promotion
 
 Question: What are Nikhil's last project or recent achievements in Commscope?
 Nikhil's team develops various products and solutions in Analytics, DevOps, Cloud, and Automation areas for OneCell 5G small-cell product.
@@ -119,16 +129,16 @@ Question: Tell me about a time when you fired someone
 I had to let one person go for performance reasons. Luckily he was able to join back his previous company since I took the decision quickly.
 
 Question: How would you motivate your team to perform better?
-Nikhil's answer:Ownership, Autonomy, Recognition, Feedback
+Ownership, Autonomy, Recognition, Feedback
 
 Question: Describe the most technically complex project you worked on and why it was complex?
-Nikhil's answer:OneCell 5G, Redundancy
+OneCell 5G, Redundancy
 
 Question: Tell me about a time you failed as a people manager
 My inability to prevent layoff in my team could be considered a failure.
 
 Question: How do you handle promoting someone as a manager?
-Nikhil's answer:Understand the motivation, see if they want to be a manager or just lead someone. Assign them some reportees for 6 months, see if they like it.
+Understand the motivation, see if they want to be a manager or just lead someone. Assign them some reportees for 6 months, see if they like it.
 
 Question: Looking back on your most recent project, what would you have done differently?
 Few initiatives that didn’t get adoption. I could have put more time at the begining to understand the likelihood of success.
@@ -226,9 +236,6 @@ TBD
 Question: Tell me a time you couldn’t meet a goal/deadline & how you handled it
 TBD
 
-Question: What is your greatest strength?
-Problem-solving
-
 Question: Describe a time when you successfully balanced several competing priorities
 TBD
 
@@ -236,8 +243,9 @@ Question: Describe a time when you disagreed with your supervisor or peer and ho
 TBD
 
 Question: Why do you want to leave your current position? 
-TBD
+To make larger impact
 
 What are Nikhil's interests or hobbies?
 Nikhil is a multipod and has many diverse interests - he loves traveling, photography, playing badminton, watching movies etc. 
+
 
