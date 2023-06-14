@@ -53,22 +53,22 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     vectorstore: vectorStore,
     combineDocumentsChain: stuffChain,
     returnSourceDocuments: true,
-    k: 4,
+    k: 2,
   })
-  // console.log('Calling OpenAI API with question: ' + question)
-  // /* Ask it a question and the answer */
-  // const result = await chain.call({
-  //   query: question,
-  // })
+  console.log('Calling OpenAI API with question: ' + question)
+  /* Ask it a question and the answer */
+  const result = await chain.call({
+    query: question,
+  })
 
-  const result = await Promise.race([
-    chain.call({
-      query: question,
-    }),
-    new Promise((_, reject) =>
-      setTimeout(() => reject(new Error('Timeout after 10 seconds')), 10000)
-    ),
-  ])
+  // const result = await Promise.race([
+  //   chain.call({
+  //     query: question,
+  //   }),
+  //   new Promise((_, reject) =>
+  //     setTimeout(() => reject(new Error('Timeout after 10 seconds')), 10000)
+  //   ),
+  // ])
 
   console.log(result.text)
 

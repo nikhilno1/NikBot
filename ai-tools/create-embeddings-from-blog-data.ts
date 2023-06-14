@@ -21,7 +21,7 @@ export const run = async () => {
 
   const splitter = new CharacterTextSplitter({
     separator: '.\n',
-    chunkSize: 1500,
+    chunkSize: 1000,
     chunkOverlap: 200,
   })
 
