@@ -1,8 +1,5 @@
 {
   "functions": {
-    "api/answer": {
-      "maxDuration": 30
-    },
     "api/*": {
       "maxDuration": 30
     }
