@@ -20,7 +20,7 @@ export const run = async () => {
   docs.push(...(await loader2.load()))
 
   const splitter = new CharacterTextSplitter({
-    separator: '.\n',
+    separator: '.\n\n',
     chunkSize: 1000,
     chunkOverlap: 200,
   })
