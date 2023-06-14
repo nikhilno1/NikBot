@@ -1,12 +1,6 @@
 {
   "functions": {
-    "api/answer.js": {
-      "maxDuration": 30
-    },
-    "api/answer.ts": {
-      "maxDuration": 30
-    },
-    "api/*.js": {
+    "pages/api/answer.ts": {
       "maxDuration": 30
     }
   },
