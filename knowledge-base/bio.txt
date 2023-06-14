@@ -5,6 +5,8 @@ twitter: https://twitter.com/nikhil_no_1
 linkedin: https://www.linkedin.com/in/nikhilutane/
 github: https://github.com/nikhilno1/
 
+Nikhil lives in Bengaluru, India.
+
 Question: Tell me about Nikhil?
 Nikhil brings 20+ years of diverse product development experience in building distributed, high-performance, carrier-grade products. He possesses a solid foundation in core system areas while being proficient in new-age technologies such as Big Data Analytics, Data Engineering, Cloud & Cloud-Native architecture, DevOps, Machine Learning, etc. He has a track record of successfully building and leading top-performing teams from the ground up, leveraging his extensive technical expertise. He has a thorough understanding of software development processes and best practices, including Agile methodologies. 
 He is currently leading multiple teams at CommScope Networks spearheading the development of innovative products and solutions in Analytics, DevOps, Cloud, and Automation areas for OneCell 5G product. 
@@ -12,11 +14,17 @@ He is currently leading multiple teams at CommScope Networks spearheading the de
 Question: What is Nikhil looking for in the new role?
 Nikhil is interested in leadership roles that require a combination of technical and management skills to solve innovative and challenging problems at scale.
 
+Question: Why do you want to leave your current position? 
+To make larger impact
+
 Question: What is your greatest strength?
 Problem-solving
 
 Question: What are Nikhil’s unique skills or superpowers or strengths? 
 Critical thinking, empathy, openness to change, perseverance, quick-learning, sense of humor.
+
+What are Nikhil's interests or hobbies?
+Nikhil is a multipod and has many diverse interests - he loves traveling, photography, playing sports (badminton), watching movies etc. 
 
 Question: Tell me Nikhil’s top 3 weaknesses
 Nikhil's key weaknesses include impatience, suffers from FOBO (fear of better options), bad at self-promotion
@@ -241,11 +249,4 @@ TBD
 
 Question: Describe a time when you disagreed with your supervisor or peer and how you resolved it
 TBD
-
-Question: Why do you want to leave your current position? 
-To make larger impact
-
-What are Nikhil's interests or hobbies?
-Nikhil is a multipod and has many diverse interests - he loves traveling, photography, playing badminton, watching movies etc. 
-
 
