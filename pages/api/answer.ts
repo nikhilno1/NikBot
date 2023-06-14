@@ -20,6 +20,8 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     },
   })
 
+  console.log('Added question to DB')
+
   const vectorStore = PrismaVectorStore.withModel<documents>(prisma).create(
     new OpenAIEmbeddings(),
     {
@@ -36,7 +38,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
   const model = new OpenAI({
     modelName: 'gpt-3.5-turbo',
     openAIApiKey: process.env.OPENAI_API_KEY,
-    temperature: 0.5,
+    temperature: 0,
   })
 
   const promptTemplateBot = /*#__PURE__*/ new PromptTemplate({
@@ -53,11 +55,12 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     returnSourceDocuments: true,
     k: 4,
   })
-
+  console.log('Calling OpenAI API with question: ' + question)
   /* Ask it a question and the answer */
   const result = await chain.call({
     query: question,
   })
+  console.log(result.text)
 
   await prisma.question.update({
     where: {
@@ -68,6 +71,8 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
       successFromLLM: true,
     },
   })
+
+  console.log('Updated question in DB. Returning 200 OK')
 
   return res.status(200).json(result)
 }
