@@ -1,18 +1,14 @@
-# Gloria: your personal blog augmented with Generative AI
+# NikBot: Personal Chatbot for Nikhil Utane
 
-Gloria will help you create a free interactive blog powered by AI.
-It will have a growing set of tool to help you manipulate information and create engaging blog post with the help of AI.
+You can see a demo at https://nik-bot.vercel.app/
 
-The first tool is a personal assistant that will help you answer questions from your readers.
-You can see a demo at https://maximeai.com
-
-The stack is Nextjs and Langchain. It is hosted on Vercel and Supabase for the database. It has been optimized to work on free tiers.
+The stack is Nextjs and Langchain. It is hosted on Vercel and Supabase for the database. 
 
 Here is a screenshot of the homepage:
 
 ![Homepage of the blog](./docs/homepage.png)
 
-All contributions are welcome.
+Credit -  [MaximeThoonsen/gloria](https://github.com/MaximeThoonsen/gloria)
 
 ## Installation
 
