@@ -87,7 +87,7 @@ You can deploy this project on Vercel. You will need to set the environment vari
 
 ## Credits
 
-[MaximeThoonsen/gloria](https://github.com/MaximeThoonsen/gloria)
+Code from - [MaximeThoonsen/gloria](https://github.com/MaximeThoonsen/gloria)
 
 It was started from the [Tailwind Nextjs Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog).
 Original README [here](docs/nextjs-starter-README.md).
