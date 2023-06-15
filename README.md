@@ -8,8 +8,6 @@ Here is a screenshot of the homepage:
 
 ![Homepage of the blog](./docs/homepage.png)
 
-Credit -  [MaximeThoonsen/gloria](https://github.com/MaximeThoonsen/gloria)
-
 ## Installation
 
 Install the packages: `npm install`
@@ -89,6 +87,8 @@ You can deploy this project on Vercel. You will need to set the environment vari
 
 ## Credits
 
+[MaximeThoonsen/gloria](https://github.com/MaximeThoonsen/gloria)
+
 It was started from the [Tailwind Nextjs Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog).
-I have left the original README [here](docs/nextjs-starter-README.md).
-I changed a bit the code like not using the analytics and the comments.
+Original README [here](docs/nextjs-starter-README.md).
+
