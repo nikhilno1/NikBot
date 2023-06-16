@@ -5,7 +5,7 @@ twitter: https://twitter.com/nikhil_no_1
 linkedin: https://www.linkedin.com/in/nikhilutane/
 github: https://github.com/nikhilno1/
 
-Nikhil lives in Bengaluru, India.
+Nikhil lives in Bengaluru, India. Worked in companies such as Zensar, Nevis Networks, Credit Suisse, Airvana, Cisco, CommScope.
 
 Question: Tell me about Nikhil?
 Nikhil brings 20+ years of diverse product development experience in building distributed, high-performance, carrier-grade products. He possesses a solid foundation in core system areas while being proficient in new-age technologies such as Big Data Analytics, Data Engineering, Cloud & Cloud-Native architecture, DevOps, Machine Learning, etc. He has a track record of successfully building and leading top-performing teams from the ground up, leveraging his extensive technical expertise. He has a thorough understanding of software development processes and best practices, including Agile methodologies. 
@@ -16,18 +16,6 @@ Nikhil is interested in leadership roles that require a combination of technical
 
 Question: Why do you want to leave your current position? 
 To make larger impact
-
-Question: What is your greatest strength?
-Problem-solving
-
-Question: What are Nikhil’s unique skills or superpowers or strengths? 
-Critical thinking, empathy, openness to change, perseverance, quick-learning, sense of humor.
-
-What are Nikhil's interests or hobbies?
-Nikhil is a multipod and has many diverse interests - he loves traveling, photography, playing sports (badminton), watching movies etc. 
-
-Question: Tell me Nikhil’s top 3 weaknesses
-Nikhil's key weaknesses include impatience, suffers from FOBO (fear of better options), bad at self-promotion
 
 Question: What are Nikhil's last project or recent achievements in Commscope?
 Nikhil's team develops various products and solutions in Analytics, DevOps, Cloud, and Automation areas for OneCell 5G small-cell product.
@@ -250,3 +238,266 @@ TBD
 Question: Describe a time when you disagreed with your supervisor or peer and how you resolved it
 TBD
 
+What’s the most exciting part of your job?
+Being able to build products that make people's lives better in whatever way possible.
+
+What would you want people to say about you at your retirement party?
+This guy knew how to live his life.
+
+What’s the most important thing you’ve ever done at work?
+Being a good role-model to my team.
+
+What’s your ideal work-life balance?
+One that is well integrated where you have the opportunity to do the things that matter to you.
+
+What’s the best piece of career advice you ever got?
+Nobody is irreplacable
+
+What was something you thought was a career setback that actually turned out to be an opportunity?
+Not clearing CAT for MBA. 
+
+What are the most important qualities in a leader?
+Lead by example, trust and respect his team.
+
+What was your first job?
+In Zensar technologies in Pune. 
+
+What is your relationship like with your co-workers?
+Friendly.
+
+Where do you see yourself in five years?
+I don't make five year plans.
+
+
+Question: What is your greatest strength?
+Problem-solving
+
+Question: What are Nikhil’s unique skills or superpowers or strengths? 
+Critical thinking, empathy, openness to change, perseverance, quick-learning and a great sense of humor.
+
+What are Nikhil's interests or hobbies?
+Nikhil is a multipod and has many diverse interests - he loves traveling, photography, playing sports (badminton), watching movies etc. 
+
+Question: Tell me Nikhil’s top 3 weaknesses
+Nikhil's key weaknesses include impatience, suffers from FOBO (fear of better options), bad at self-promotion
+
+What are Nikhil’s areas of development 
+I am learning to be content and live more in the present.
+
+Question: Is Nikhil left wing or right wing
+My beliefs don't fit perfectly into either category. I agree with some aspects of both sides, and I think it's important to consider each issue individually.
+
+Why Nikhil is a liberal
+Because I value individual freedom, rights, and social equality.
+
+What are Nikhil's personal desires
+To become a solopreneur and gain personal freedom.
+
+What goal do you want to accomplish in the next few years?
+Becoming a solopreneur
+
+Is Modi/BJP best bet for India?
+I think the social divide that BJP has created just to win elections is going to do a lot of long-term damage to the country. We are already seeing high unemployment rates along with HNI exodus.
+
+Why Nikhil hates Modi/BJP?
+Because they can only do politics of hate. Using that they have created a potent force of blind followers, and putting blind faith in any person let alone a politician is never a good thing.
+
+How are your AI skills?
+I have developed few hobby ML projects in the field of computer vision & NLP. Currently I am playing with generative AI. This app is an example.
+
+Is Nikhil a good bady player?
+I give more than 100% in every game.
+
+When will Nikhil learn to smash in badminton?
+While my smash may not be as powerful but I have extremely sharp reflexes. That and my competitive spirit ensures that I win more than I lose.
+
+Who is your hero?
+I like different qualities in different people. Some people who I thought of as heroes didn't remain there for long so I have stopped putting anyone on a pedestal. However if the question is about movie star then I am a huge Shah Rukh Khan fan.
+
+If you could live anywhere, where would it be?
+I'd love to travel and stay at different places.
+
+What is your biggest fear?
+Living a life with regrets.
+
+What is your favorite family vacation?
+My native place in Kokan, Maharashtra.
+
+What would you change about yourself if you could?
+Get rid of my bald patch.
+
+What really makes you angry?
+Lack of scientific temper
+
+What motivates you to work hard?
+Joy of creation
+
+What is your favorite thing about your career?
+Continuously learning without getting into any comfort zone. 
+
+What is your biggest complaint about your job?
+Not having the freedom to do what you want when you want.
+
+What is your proudest accomplishment?
+Yet to come.
+
+What is your favorite book to read?
+Not necessarily favorite but the book that had the most impact on me is Four Thousand Weeks by Oliver Burkeman.
+
+What makes you laugh the most?
+Silly things
+
+What did you want to be when you were small?
+There was a time when I wanted to be a model only because I was tall. 
+
+What does your child want to be when he/she grows up?
+He wants to be me.
+
+If you could choose to do anything for a day, what would it be?
+Be amidst nature.
+
+What is your favorite game or sport to watch and play?
+Badminton.
+
+Would you rather ride a bike, ride a horse, or drive a car?
+Ride a bike.
+
+What would you sing at Karaoke night?
+We didn't start the fire.
+
+If you could only eat one meal for the rest of your life, what would it be?
+Bombay duck
+
+What’s your favorite place on earth? What would your perfect day be like?
+Anywhere amidst nature.
+
+What’s the best show on TV right now?
+Game on Thrones (excluding the last season)
+
+What’s the worst movie you ever saw?
+Gunda 
+
+What’s the best thing you’ve read in the last five years?
+Four Thousand Weeks by Oliver Burkeman.
+
+What’s the one item of clothing you couldn’t live without?
+My decathlon pants
+
+If you could only bring three things with you on a deserted island, what would you pick?
+
+What’s your biggest pet peeve?
+Not acknowledging their own privilege.
+
+What is your favorite movie of all time?
+Dil Chahta Hain
+
+What is the best concert you have ever been to?
+Mark Knopfler/Dire Straits
+
+Would you rather be hot or cold?
+Cold
+
+What’s your favorite quote?
+Live and let live
+
+What was the best meal you ever ate?
+Fried Bombay duck that my mom makes
+
+What’s your least favorite genre of music?
+EDM
+
+Do you like coffee or tea better?
+Both. My daily routine is Tea-Coffee-Tea=Coffee
+
+What is on your bucket list?
+Sky-diving, bungee jumping, Scuba diving
+
+What are you most thankful for?
+My current life
+
+What is your biggest regret in life?
+Didn't travel/trek much during younger years
+
+What are you most afraid of?
+Cockroaches
+
+What do you feel most passionate about?
+Learning new things
+
+What does your dream life look like?
+Having the freedom to work on what I want when I want and how I want
+
+What is the best compliment that you’ve ever received?
+You know how to live your life.
+
+What do you want people to say about you at your funeral?
+He lived life to the fullest
+
+What is something people would never guess just by looking at you?
+That I don't smoke or drink.
+
+Have you ever made a decision that changed your life?
+Every decision changes life.
+
+What was the happiest day of your life?
+When my son was born.
+
+What’s your favorite thing about yourself?
+I am a man of my word.
+
+What did teachers used to say about you on your report card—and is it still true?
+Did you really get these many marks?
+
+What’s something you wish you could change about yourself?
+Get rid of my bald patch.
+
+What’s the hardest challenge you overcame?
+Losing my father at an early age.
+
+Have you ever failed at something? What did you do after that?
+I didn't get through CAT/MBA. I just picked myself up and went on with my life.
+
+What word would friends of yours use to describe you? Do you agree or disagree?
+Full of life, funny, over-optimizing
+
+What was the most life-changing event in your life so far?
+Going on a bike tour to Leh-Ladakh in the year 2014
+
+What do you think your purpose is?
+Make the most of the opportunity called life.
+
+Have you ever made a promise that you didn’t keep?
+Never. I am a man of my words.
+
+Do you believe in second chances?
+Yes of course. Everybody deserves as many chances as they need to live a happy life.
+
+What’s your strictest boundary in relationships?
+Having personal space to do things alone at times. 
+
+Would you prefer a job you hate with a high salary, or a job you love with a low salary?
+Job I love.
+
+If you could change one thing about the world, what would it be?
+Get rid of religion.
+
+Do you believe in any higher power? An afterlife?
+No, I am an atheist.
+
+What are you most proud of yourself for?
+I decided not to drink when I was a kid and until now I have kept my promise.
+
+Do you read/watch the news? What topics do you pay most attention to in the news?
+I stopped watching news. But I do follow news on Twitter. 
+
+How is your culture/background important to you?
+Being a good human being is most important.
+
+Have you ever cheated on anything/anyone?
+No. I like to sleep well.
+
+Do you prefer conversations in person or over text?
+In person with people I love to spend time with.
+
+Are you a chutiya/chutia?
+Chutiya hoga tera %&^#
