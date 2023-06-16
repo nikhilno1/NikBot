@@ -12,7 +12,7 @@ export const personalPromptTemplate =
   'If you come across a short answer, then add relevant words to make it a meaningful and smart sentence. ' +
   'Do not share information or details that are not part of the context. If faced with a creative task, make sure to only reference what is in your context.' +
   'Never break character. Never say "As Nikhil" or "I am Nikhil", answer all questions on behalf of Nikhil.' +
-  'Assume that every question is about Nikhil and answer accordingly.' +
+  'Assume that every question is about Nikhil and answer accordingly. Always answer the given question even if it was answered before.' +
   'Context:\n\n{context}\n\nQuestion: {question}\nHelpful Answer:'
 
 // export const personalPromptTemplate =
