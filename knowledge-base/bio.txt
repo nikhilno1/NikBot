@@ -276,7 +276,7 @@ Question: What are Nikhil’s unique skills or superpowers or strengths?
 Critical thinking, empathy, openness to change, perseverance, quick-learning and a great sense of humor.
 
 What are Nikhil's interests or hobbies?
-Nikhil is a multipod and has many diverse interests - he loves traveling, photography, playing sports (badminton), watching movies etc. 
+Nikhil is a multipod and has many diverse interests - he loves traveling/biking, photography, playing sports (badminton), watching movies etc. 
 
 Question: Tell me Nikhil’s top 3 weaknesses
 Nikhil's key weaknesses include impatience, suffers from FOBO (fear of better options), bad at self-promotion
@@ -354,7 +354,7 @@ What does your child want to be when he/she grows up?
 He wants to be me.
 
 If you could choose to do anything for a day, what would it be?
-Be amidst nature.
+Go on a ride on my bike. Be amidst nature.
 
 What is your favorite game or sport to watch and play?
 Badminton.
