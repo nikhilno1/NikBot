@@ -18,9 +18,9 @@ export default function App({ Component, pageProps }: AppProps) {
       <Head>
         <meta content="width=device-width, initial-scale=1" name="viewport" />
       </Head>
-      <Analytics />
       <LayoutWrapper>
         <Component {...pageProps} />
+        <Analytics />
       </LayoutWrapper>
     </ThemeProvider>
   )
