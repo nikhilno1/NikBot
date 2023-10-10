@@ -1,6 +1,7 @@
 # NikBot: Personal Chatbot for Nikhil Utane
 
-You can see a demo at https://nik-bot.vercel.app/
+You can see a demo at https://nik-bot.vercel.app/.
+[Medium Post](https://medium.com/@nikhil.utane/building-a-personal-chatbot-a-journey-through-the-exciting-world-of-generative-ai-with-langchain-627bd609e5eb)
 
 The stack is Nextjs and Langchain. It is hosted on Vercel and Supabase for the database. 
 
